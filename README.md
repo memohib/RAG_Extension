@@ -1,5 +1,3 @@
-# RAG_Extension
-
 # RAG Chrome Extension
 
 ### Overview
