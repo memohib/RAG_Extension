@@ -14,54 +14,42 @@ The RAG Chrome Extension is a powerful tool that fetches the content of the curr
 
 - Works seamlessly within the Chrome browser.
 
--Lightweight and efficient, ensuring smooth browsing.
+- Lightweight and efficient, ensuring smooth browsing.
 
 ### Installation
 
-Download or clone the repository.
+- Download or clone the repository.
 
-Open Chrome and navigate to chrome://extensions/.
+- Open Chrome and navigate to `chrome://extensions/.`
 
-Enable "Developer mode" in the top-right corner.
+- Enable "Developer mode" in the top-right corner.
 
-Click "Load unpacked" and select the extension folder.
+- Click "Load unpacked" and select the extension folder.
 
-The RAG Chrome Extension is now installed and ready to use.
+- The RAG Chrome Extension is now installed and ready to use.
 
-Usage
+### Usage
 
 Navigate to any webpage.
 
-Click on the RAG Chrome Extension icon.
+- Click on the RAG Chrome Extension icon.
 
-The extension will fetch and process the page content.
+- The extension will fetch and process the page content.
 
-Use the retrieved content for summarization, search, or other retrieval-based tasks.
+- Use the retrieved content for summarization, search, or other retrieval-based tasks.
 
-Permissions
+### Permissions
 
-This extension requires the following permissions:
+- This extension requires the following permissions:
 
-activeTab: To access the currently open tab and fetch its content.
+- `activeTab:` To access the currently open tab and fetch its content.
 
-storage: To save user preferences if necessary.
+`storage:` To save user preferences if necessary.
 
-Contributing
+### License
 
-We welcome contributions! To contribute:
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
-Fork the repository.
+### Contact
 
-Create a new branch (feature-branch).
-
-Make your changes and commit them.
-
-Push to your fork and submit a pull request.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-
-For any questions or suggestions, please open an issue or reach out to the development team.
+- For any questions or suggestions, please open an issue or reach out to the development team.
