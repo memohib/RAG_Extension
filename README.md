@@ -42,7 +42,7 @@ Navigate to any webpage.
 
 - `activeTab:` To access the currently open tab and fetch its content.
 
-`storage:` To save user preferences if necessary.
+- `storage:` To save user preferences if necessary.
 
 ### License
 
