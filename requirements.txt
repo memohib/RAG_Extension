@@ -1,0 +1,13 @@
+langchain
+langchain_core
+langchain_community
+faiss_cpu
+ipykernel
+langchain_groq
+langchain_huggingface
+tiktoken
+python-dotenv
+beautifulsoup4
+langchain_chroma
+fastapi
+uvicorn
